@@ -16,7 +16,7 @@ namespace School
         public DateTime EndDate { get; set; }
        
 
-        //default constractor
+        //default constructor
         public Course()
         {
 

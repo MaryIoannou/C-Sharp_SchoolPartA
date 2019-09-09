@@ -22,14 +22,14 @@ namespace School
 
             Console.WriteLine("Create a course");
             course = Repository.CreateCourse();
-            Repository.AddToList(Repository.AllCourses, course);            //Vazw to course poy mou edwse mesa se ola ta courses
+            Repository.AddToList(Repository.AllCourses, course);            
 
             Console.WriteLine("How many Assigments per course do you want to insert?");
             int n = Convert.ToInt32(Console.ReadLine());
             for (int i = 0; i < n; i++)
             {
                 Assignment assigment = Repository.CreateAssignment();
-                Repository.AddToList(Repository.AllAssignments, assigment);  //Vazw ta assigments poy mou edwse mesa se ola ta assigments
+                Repository.AddToList(Repository.AllAssignments, assigment);  
                 Repository.AddToList(Assigmentapc, assigment);
             }
 

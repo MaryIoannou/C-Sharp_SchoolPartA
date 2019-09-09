@@ -15,7 +15,7 @@ namespace School
         
 
 
-        //default constractor
+        //default constructor
         public Student()
         {
 

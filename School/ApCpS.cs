@@ -21,7 +21,7 @@ namespace School
 
             Console.WriteLine("Create a student");
             student = Repository.CreateStudent();
-            Repository.AddToList(Repository.AllStudents, student);            //Vazw ton student poy mou edwse mesa se olous tous students
+            Repository.AddToList(Repository.AllStudents, student);            
 
             Console.WriteLine("se posa mathimata tha anikei o student?");
             int n;

@@ -13,7 +13,7 @@ namespace School
         public string Subject { get; set; }
 
 
-        //default constractor
+        //default constructor
         public Trainer()
         {
 
