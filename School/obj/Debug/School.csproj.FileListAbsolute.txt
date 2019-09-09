@@ -1,0 +1,14 @@
+C:\Users\MAIRI\source\repos\School\School\bin\Debug\School.exe.config
+C:\Users\MAIRI\source\repos\School\School\bin\Debug\School.exe
+C:\Users\MAIRI\source\repos\School\School\bin\Debug\School.pdb
+C:\Users\MAIRI\source\repos\School\School\obj\Debug\School.csprojAssemblyReference.cache
+C:\Users\MAIRI\source\repos\School\School\obj\Debug\School.csproj.CoreCompileInputs.cache
+C:\Users\MAIRI\source\repos\School\School\obj\Debug\School.exe
+C:\Users\MAIRI\source\repos\School\School\obj\Debug\School.pdb
+C:\Users\Admin\Desktop\School\School\bin\Debug\School.exe.config
+C:\Users\Admin\Desktop\School\School\bin\Debug\School.exe
+C:\Users\Admin\Desktop\School\School\bin\Debug\School.pdb
+C:\Users\Admin\Desktop\School\School\obj\Debug\School.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\School\School\obj\Debug\School.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\School\School\obj\Debug\School.exe
+C:\Users\Admin\Desktop\School\School\obj\Debug\School.pdb
